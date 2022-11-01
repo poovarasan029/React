@@ -1,0 +1,17 @@
+.fi{
+    color: antiquewhite;
+    width: fit-content;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: -40px;
+    margin-left: 5px;
+}
+.se{
+    margin-left: 530px;
+    width: 70px; 
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}

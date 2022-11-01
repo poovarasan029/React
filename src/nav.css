@@ -1,0 +1,27 @@
+ul{
+    display: flex;
+  justify-content: center;
+  background-color: chocolate;
+  height: 100px;
+  margin-top: 20px;
+
+}
+li{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: honeydew;
+    text-decoration: none;
+    list-style-type:none ;
+}
+a{
+    text-decoration: none;
+   
+    font-size: xx-large;
+}
+ nav a:active,
+nav a.active{
+    border-bottom: 1px solid wheat;
+}/*
+nav a:hover{
+    border-bottom: 1px solid wheat;
+} */
