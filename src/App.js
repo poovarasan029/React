@@ -26,9 +26,7 @@ function App() {
   
 ]
 const [like,setLike]=useState(user)
-// function un(){
-//   setLike()
-// }
+
 
 function any(exp){
   // console.log('in app.js')
